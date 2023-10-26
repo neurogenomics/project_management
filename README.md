@@ -9,8 +9,9 @@ Tools, tutorials, and resources for research-based project management.
 ### GitHub for Research Project Management: an Introductory Workshop
 [![Youtube Tutorial](https://img.youtube.com/vi/zTNDo4PGTds/0.jpg)](https://youtu.be/zTNDo4PGTds)
 
-### GitHub Documentation  
-- ℹ️ [About](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+### Documentation  
+- ℹ️ [GitHub Features](https://github.com/features)
+- ℹ️ [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 - ℹ️ [Planning and Tracking with Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
 
 ## [`rworkflows`](https://github.com/neurogenomics/rworkflows)  
