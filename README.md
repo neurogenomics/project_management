@@ -7,8 +7,10 @@ Tools, tutorials, and resources for research-based project management.
 > Create issues, break them into tasks, track relationships, add custom fields, and have conversations. Visualize large projects as spreadsheets or boards, and automate everything with code.
 
 <a href="https://youtu.be/zTNDo4PGTds?si=Ceb0HCvjrk9I2Pxx" target="_blank">
+<div>
 <h3>GitHub for Research Project Management: an Introductory Workshop</h3>
 <img src="https://img.youtube.com/vi/zTNDo4PGTds/0.jpg">
+</div>
 </a> 
 
 ### GitHub Documentation  
