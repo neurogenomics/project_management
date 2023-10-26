@@ -6,7 +6,10 @@ Tools, tutorials, and resources for research-based project management.
 ## [`GitHub Projects`](https://github.com/features/issues)
 > Create issues, break them into tasks, track relationships, add custom fields, and have conversations. Visualize large projects as spreadsheets or boards, and automate everything with code.
 
-<a href=""><img src="https://img.youtube.com/vi/zTNDo4PGTds/0.jpg">GitHub for Research Project Management: an introductory workshop by the Neurogenomics Lab</a> 
+<a href="https://youtu.be/zTNDo4PGTds?si=Ceb0HCvjrk9I2Pxx" target="_blank">
+<h3>GitHub for Research Project Management: an Introductory Workshop</3>
+<img src="https://img.youtube.com/vi/zTNDo4PGTds/0.jpg">
+</a> 
 
 ### GitHub Documentation  
 - ℹ️ [About](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
