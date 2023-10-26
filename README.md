@@ -5,8 +5,12 @@ Tools, tutorials, and resources for research-based project management.
 
 ## [`GitHub Projects`](https://github.com/features/issues)
 > Create issues, break them into tasks, track relationships, add custom fields, and have conversations. Visualize large projects as spreadsheets or boards, and automate everything with code.
-- [About](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-- [Planning and Tracking with Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+
+<a href=""><img src="https://img.youtube.com/vi/zTNDo4PGTds/0.jpg">GitHub for Research Project Management: an introductory workshop by the Neurogenomics Lab</a> 
+
+### GitHub Documentation  
+- ℹ️ [About](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+- ℹ️ [Planning and Tracking with Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
 
 ## [`rworkflows`](https://github.com/neurogenomics/rworkflows)  
 > Continuous integration for R packages. 🔀 Automates testing ✅, documentation website building 📦, & containerised deployment 🐳.
